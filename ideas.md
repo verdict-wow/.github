@@ -315,6 +315,7 @@
 - Auto-form or auto-join a party for world quests (see `Groupoff` addon; works even without the eye icon)
 - Filter out low-value gold, already-collected gear, and irrelevant old-content world quests
 - Track Prey and bountiful delve chest completion
+- In dungeons, caves, etc, we should display a map. We can use the minimap but blow it up as a starting point likely. Maybe autostich it as you discover? Or have completed ones like some addon in the past?
 
 
 ## Shop
