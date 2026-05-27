@@ -470,6 +470,7 @@
 - Track nemesis pack completion within a delve
 - Track banner completion within a delve
 - Track gilded stash collection from bountiful delves
+- Timer on right overlay
 
 
 
